@@ -1,2 +1,2 @@
 # download-to-gdrive
-use python to download to gdrive
+use google colab to download your files directly to gdrive
